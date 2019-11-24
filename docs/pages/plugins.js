@@ -54,6 +54,10 @@ export const plugins = {
             website: 'https://github.com/el/infobox-control',
             description: 'adds a control to display an infobox or a gradient'
         },
+        'mapbox-gl-opacity': {
+            website: 'https://github.com/dayjournal/mapbox-gl-opacity',
+            description: 'Make multiple tile layers transparent.'
+        },
         'mapbox-gl-style-switcher': {
             website: 'https://github.com/el/style-switcher',
             description: 'adds a control to switch between styles'
